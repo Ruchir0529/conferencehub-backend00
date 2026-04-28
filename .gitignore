@@ -1,0 +1,15 @@
+target/
+*.jar
+*.war
+*.class
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+.idea/
+*.iml
+uploads/
+*.log
+.env
+.DS_Store
